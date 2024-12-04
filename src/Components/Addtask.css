@@ -1,0 +1,18 @@
+.Addtask{
+margin-left: 600px;
+margin-top: -150px;
+}
+
+
+.container{
+    width: 300px;
+    height: 90px;
+    border-radius: 20px;
+}
+.button{
+    width: 300px;
+    height: 90px;
+    background-color:rgb(177, 107, 22);
+    color: white;
+    border-radius: 20px;
+}
